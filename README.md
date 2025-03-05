@@ -1,7 +1,8 @@
 <h1 align="center"> Hi there, I'm Viviane Matias <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h1>
 
 - I have a degree in Systems Analysis and Development.
-- I'm currently studying BackEnd development with Django and Python.
+- Currently, I just exist. Just kidding.
+- I'm currently studying BackEnd development with Django and Python., or not.
 
 <!--- Portfólio:[ https://sites.google.com/view/jackson-ricardo/](https://sites.google.com/view/jacksonricardo/p%C3%A1gina-inicial) 
 ---> 
